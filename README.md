@@ -6,7 +6,7 @@
 
 This package main purpose is to "Frustrate your enemies". Alright, let's be serious. This package will redirect URL guessers to any of the random URL that you specify. 
 
-## Uae case
+## Use case
 
 This is a laravel package but you will have some users that want to access `/wp-admin.php` trying to assume that your application is built on Wordpress. By default, it will return a 404 but let's not let it end there, let's frustrate them.
 
