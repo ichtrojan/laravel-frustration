@@ -1,0 +1,6 @@
+# ignore IntelliJ
+.idea/
+
+# ignore Vendor
+vendor/
+
